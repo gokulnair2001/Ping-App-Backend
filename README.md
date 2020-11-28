@@ -24,5 +24,3 @@ availabel at System Preference -> Network -> Wifi -> Advanced -> TCP/IP -> IPv4 
 
 MIT License<br> Please read the [License](https://github.com/gokulnair2001/Ping-App-Backend/blob/master/LICENSE) file for details.
 
-# Credits ⭐️
-* Thank you to Code With Chris and Alis for this amazing session on Full stack ios app developement. [Tutorial](https://www.youtube.com/watch?v=vKCdVAg5h40)
